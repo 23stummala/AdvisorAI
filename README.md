@@ -1,1 +1,3 @@
-## This is an AI Academic Advisor that is trained on course information from the CSE Department at The Ohio State University
+# AI Academic Advisor
+
+### This is an AI Academic Advisor application that answers student inquiries based on CSE course information from The Ohio State University
